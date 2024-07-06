@@ -1,0 +1,203 @@
+{
+   "checksum": "f91d3c066d92f76190e4ac6d4d5ec3f8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13182000864762284",
+            "date_last_used": "0",
+            "guid": "0f74a35b-a4ec-4a6b-9f00-7693849246d9",
+            "id": "10",
+            "name": "Rajendra Bachhniya ",
+            "type": "url",
+            "url": "https://www.typing.com/student/test/1"
+         }, {
+            "date_added": "13186670840324780",
+            "date_last_used": "0",
+            "guid": "39b4e4b7-00ea-4fd1-bfe4-4054e36990c7",
+            "id": "11",
+            "name": "Shared with me - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/shared-with-me?ogsrc=32"
+         }, {
+            "date_added": "13203057510021674",
+            "date_last_used": "0",
+            "guid": "f96182ef-14c0-4305-8af5-e05a08ce4cda",
+            "id": "12",
+            "name": "Settings",
+            "type": "url",
+            "url": "chrome://settings/"
+         }, {
+            "date_added": "13203065480495436",
+            "date_last_used": "0",
+            "guid": "cf65d21e-6c85-4d63-aac9-21a273061b51",
+            "id": "13",
+            "name": "",
+            "type": "url",
+            "url": "https://www.bhaskar.com/"
+         }, {
+            "date_added": "13204725603997314",
+            "date_last_used": "0",
+            "guid": "04855792-7416-4b86-9eac-bbded67bc335",
+            "id": "14",
+            "name": "Charlie Chaplin The Tramp (1915) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=gXL0GreSy58"
+         }, {
+            "date_added": "13209549669332966",
+            "date_last_used": "0",
+            "guid": "b593cdeb-e369-4491-9bd8-16c9e68407a4",
+            "id": "15",
+            "name": "Google Account",
+            "type": "url",
+            "url": "https://myaccount.google.com/?hl=en"
+         }, {
+            "date_added": "13335337931274311",
+            "date_last_used": "0",
+            "guid": "806c41f6-dcff-4338-abf0-0f6b75454795",
+            "id": "16",
+            "name": "White Simple Student CV Resume - A4",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAFqRNG69nI/OPRERc3SS-uaqIF9-YfiUA/edit"
+         }, {
+            "date_added": "13358258425897154",
+            "date_last_used": "0",
+            "guid": "d3510e96-8b7c-4c41-8049-6fde68e937cc",
+            "id": "17",
+            "name": "QuickRef.ME - Quick Reference Cheat Sheet",
+            "type": "url",
+            "url": "https://quickref.me/index.html"
+         } ],
+         "date_added": "13359014870890584",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13357743585433191",
+            "date_last_used": "0",
+            "guid": "5fa35ea4-62bb-4bd8-a14a-ecbdad7cb482",
+            "id": "18",
+            "name": "NPCI Status",
+            "type": "url",
+            "url": "https://samagra.gov.in/Home/NPCIStatus.aspx"
+         }, {
+            "date_added": "13357911375161788",
+            "date_last_used": "0",
+            "guid": "b02fd248-31cd-452a-adbb-b532154e7eec",
+            "id": "19",
+            "name": "CURRICULUM VITAE",
+            "type": "url",
+            "url": "file:///C:/Users/HP/Desktop/project/student%20register%20form/new%20fholder/resume/index.html"
+         }, {
+            "date_added": "13357994536830953",
+            "date_last_used": "0",
+            "guid": "78544c52-c70a-439a-82e3-53e89e66ffe1",
+            "id": "20",
+            "name": "heic2404a.jpg (1280×639)",
+            "type": "url",
+            "url": "https://cdn.esahubble.org/archives/images/screen/heic2404a.jpg"
+         }, {
+            "date_added": "13358258227411973",
+            "date_last_used": "0",
+            "guid": "e7b62819-6b1d-4eba-a355-08ac808f27b9",
+            "id": "21",
+            "name": "HTML Cheat Sheet & Quick Reference",
+            "type": "url",
+            "url": "https://quickref.me/html"
+         }, {
+            "children": [ {
+               "date_added": "13358258330841962",
+               "date_last_used": "0",
+               "guid": "d99be057-dae6-4ae0-acc9-d5d2da707689",
+               "id": "23",
+               "name": "Document",
+               "type": "url",
+               "url": "http://192.168.1.53:5501/recipe-page-main/image%20section.html"
+            }, {
+               "date_added": "13358258330842062",
+               "date_last_used": "0",
+               "guid": "d02de25a-2205-46cc-9769-7382f8549a6e",
+               "id": "24",
+               "name": "(1787) KG Coding by Prashant Sir - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@KG_Coding"
+            } ],
+            "date_added": "13359014874457541",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "3e7bfbb1-ecf0-418c-beea-a64b324efae7",
+            "id": "22",
+            "name": "New folder",
+            "type": "folder"
+         } ],
+         "date_added": "13359014870890591",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sponsored": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13359014871664621",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "14a01d1a-6801-47fa-8fbb-9c3b73e64a58",
+            "id": "6",
+            "name": "ActiveUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13359014871665052",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "77a3be16-73fe-478a-8a4a-95d32342da11",
+            "id": "7",
+            "name": "HiddenUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13359014871665116",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "34bc4b23-7ba4-493e-8630-594b515d5107",
+            "id": "8",
+            "name": "RemovedUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13359014871665132",
+            "date_last_used": "0",
+            "date_modified": "13359014871665132",
+            "guid": "783cf0f2-05a7-4601-be8f-31e7e9404e2c",
+            "id": "9",
+            "name": "AllSubfolders",
+            "type": "folder"
+         } ],
+         "date_added": "13359014870890799",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000099",
+         "id": "4",
+         "name": "Sponsored",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13359014870890594",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
